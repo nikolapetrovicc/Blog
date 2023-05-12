@@ -1,0 +1,33 @@
+[
+  {
+    "id": "first_name",
+    "label": "First Name",
+    "width": "13%"
+  },
+  {
+    "id": "last_name",
+    "label": "Last Name",
+    "width": "10%"
+  },
+  {
+    "id": "email",
+    "label": "Email",
+    "width": "10%"
+  },
+  {
+    "id": "gender",
+    "chip": true,
+    "label": "Gender",
+    "width": "10%"
+  },
+  {
+    "id": "",
+    "label": "",
+    "width": "10%"
+  },
+  {
+    "id": "",
+    "label": "",
+    "width": "10%"
+  }
+]
